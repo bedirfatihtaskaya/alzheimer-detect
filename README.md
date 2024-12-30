@@ -41,13 +41,7 @@ This project addresses the growing need for accurate and efficient early diagnos
 - Develop a web-based interface for clinicians to upload MRI scans and receive instant predictions.  
 - Incorporate 3D CNN models for volumetric brain scan analysis.  
 
-## 🤝 Acknowledgements  
-Special thanks to **Melih Ağraz** for guidance and mentorship throughout this project. This work was completed as part of the "Yapay Zeka" course at [University/Institution Name].  
 
-## 📬 Contact  
-- **Author**: [Your Name]  
-- **Email**: [YourEmail@example.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
 
 ---
 
